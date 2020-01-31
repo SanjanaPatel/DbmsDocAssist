@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\Project2\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Project2\Project2\obj\Debug\Project2.Form1.resources
+C:\Users\Dell\source\repos\Project2\Project2\obj\Debug\Project2.Form2.resources
+C:\Users\Dell\source\repos\Project2\Project2\obj\Debug\Project2.Properties.Resources.resources
+C:\Users\Dell\source\repos\Project2\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
